@@ -135,7 +135,7 @@ html {
 
   .banner-container {
     height: 700px;
-    background-image: url(./resources/images/Banner_lab.jpg);
+    background-image: url(./Banner_lab.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right;
